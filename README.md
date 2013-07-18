@@ -1,4 +1,4 @@
 zenflow-example
 ===============
 
-An example repository for zenflow tests.
+An example repository for zenflow testing.
